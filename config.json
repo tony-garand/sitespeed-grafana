@@ -1,0 +1,16 @@
+{
+  "browsertime": {
+    "iterations": 3,
+    "browser": "chrome",
+    "pageCompleteCheckInactivity": "true",
+    "spa": "true",
+    "video": "true",
+    "visualElements": "true",
+    "visualMetrics": "true"
+  },
+  "graphite": {
+    "host": "graphite"
+  },
+  "mobile": true,
+  "utc": true
+}
